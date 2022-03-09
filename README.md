@@ -25,6 +25,7 @@ This repository contains the project documentation.
 The following build order can be used to build the projects from scratch:
 
 1. Core
+1. IshikoConnectionEngine
 
 # Support
 
