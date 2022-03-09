@@ -8,9 +8,15 @@ This repository contains the project documentation.
 
 ### Nemu/C++ projects
 
-1. [Core](https://github.com/nemu-cpp/core): library that provides a framework to write servers and web applications.
+1. [Core](https://github.com/nemu-cpp/core): this library provides fundamental functionality for the Nemu/C++ project.
 
    [![nemu-cpp](https://circleci.com/gh/nemu-cpp/core.svg?style=shield)](https://circleci.com/gh/nemu-cpp/core)
+
+2. [IshikoConnectionEngine](https://github.com/nemu-cpp/ishiko-connection-engine): networking implementation based on
+   the Ishiko/C++ [Networking](https://github.com/ishiko-cpp/networking) and [HTTP](https://github.com/ishiko-cpp/http)
+   projects.
+
+   [![nemu-cpp](https://circleci.com/gh/nemu-cpp/ishiko-connection-engine.svg?style=shield)](https://circleci.com/gh/nemu-cpp/ishiko-connection-engine)
 
 # Usage
 
