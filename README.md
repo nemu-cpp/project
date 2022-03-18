@@ -4,6 +4,7 @@ Nemu/C++ provides a framework to write servers and web applications in C++.
 
 This repository contains the project documentation.
 
+
 ## Contents
 
 ### Nemu/C++ projects
@@ -12,11 +13,16 @@ This repository contains the project documentation.
 
    [![nemu-cpp](https://circleci.com/gh/nemu-cpp/core.svg?style=shield)](https://circleci.com/gh/nemu-cpp/core)
 
-2. [IshikoConnectionEngine](https://github.com/nemu-cpp/ishiko-connection-engine): networking implementation based on
+1. [IshikoConnectionEngine](https://github.com/nemu-cpp/ishiko-connection-engine): networking implementation based on
    the Ishiko/C++ [Networking](https://github.com/ishiko-cpp/networking) and [HTTP](https://github.com/ishiko-cpp/http)
    projects.
 
    [![nemu-cpp](https://circleci.com/gh/nemu-cpp/ishiko-connection-engine.svg?style=shield)](https://circleci.com/gh/nemu-cpp/ishiko-connection-engine)
+
+1. [MustacheTemplatingEngine](https://github.com/nemu-cpp/mustache-templating-engine): adds support for {{ mustache }} templates to Nemu.
+
+   [![nemu-cpp](https://circleci.com/gh/nemu-cpp/mustache-templating-engine.svg?style=shield)](https://circleci.com/gh/nemu-cpp/mustache-templating-engine)
+
 
 # Usage
 
