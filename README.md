@@ -23,6 +23,10 @@ This repository contains the project documentation.
 
    [![nemu-cpp](https://circleci.com/gh/nemu-cpp/mustache-templating-engine.svg?style=shield)](https://circleci.com/gh/nemu-cpp/mustache-templating-engine)
 
+1. [Nemu](https://github.com/nemu-cpp/nemu): the top level Nemu project.
+
+   [![nemu-cpp](https://circleci.com/gh/nemu-cpp/nemu.svg?style=shield)](https://circleci.com/gh/nemu-cpp/nemu)
+
 
 # Usage
 
@@ -32,6 +36,9 @@ The following build order can be used to build the projects from scratch:
 
 1. Core
 1. IshikoConnectionEngine
+1. MustacheTemplatingEngine
+1. Nemu
+
 
 # Support
 
