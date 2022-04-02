@@ -13,11 +13,11 @@ This repository contains the project documentation.
 
    [![nemu-cpp](https://circleci.com/gh/nemu-cpp/core.svg?style=shield)](https://circleci.com/gh/nemu-cpp/core)
 
-1. [IshikoConnectionEngine](https://github.com/nemu-cpp/ishiko-connection-engine): networking implementation based on
+1. [WebFramework](https://github.com/nemu-cpp/web-framework): networking implementation based on
    the Ishiko/C++ [Networking](https://github.com/ishiko-cpp/networking) and [HTTP](https://github.com/ishiko-cpp/http)
    projects.
 
-   [![nemu-cpp](https://circleci.com/gh/nemu-cpp/ishiko-connection-engine.svg?style=shield)](https://circleci.com/gh/nemu-cpp/ishiko-connection-engine)
+   [![nemu-cpp](https://circleci.com/gh/nemu-cpp/web-framework.svg?style=shield)](https://circleci.com/gh/nemu-cpp/web-framework)
 
 1. [MustacheTemplateEngine](https://github.com/nemu-cpp/mustache-template-engine): adds support for {{ mustache }} templates to Nemu.
 
@@ -35,7 +35,7 @@ This repository contains the project documentation.
 The following build order can be used to build the projects from scratch:
 
 1. Core
-1. IshikoConnectionEngine
+1. WebFramework
 1. MustacheTemplateEngine
 1. Nemu
 
